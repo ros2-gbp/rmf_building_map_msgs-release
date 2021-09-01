@@ -1,3 +1,26 @@
+## rmf_building_map_msgs (galactic) - 1.2.0-2
+
+The packages in the `rmf_building_map_msgs` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --track galactic --ros-distro galactic rmf_building_map_msgs --edit` on `Wed, 01 Sep 2021 06:40:41 -0000`
+
+The `rmf_building_map_msgs` package was released.
+
+Version of package(s) in repository `rmf_building_map_msgs`:
+
+- upstream repository: https://github.com/open-rmf/rmf_building_map_msgs.git
+- release repository: https://github.com/ros2-gbp/rmf_building_map_msgs-release.git
+- rosdistro version: `1.2.0-1`
+- old version: `1.2.0-1`
+- new version: `1.2.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## rmf_building_map_msgs (galactic) - 1.2.0-1
 
 The packages in the `rmf_building_map_msgs` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --rosdistro galactic --track galactic rmf_building_map_msgs` on `Wed, 09 Jun 2021 03:23:53 -0000`
