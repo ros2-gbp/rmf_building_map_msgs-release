@@ -1,3 +1,26 @@
+## rmf_building_map_msgs (iron) - 1.3.0-1
+
+The packages in the `rmf_building_map_msgs` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron rmf_building_map_msgs` on `Wed, 07 Jun 2023 03:29:41 -0000`
+
+The `rmf_building_map_msgs` package was released.
+
+Version of package(s) in repository `rmf_building_map_msgs`:
+
+- upstream repository: https://github.com/open-rmf/rmf_building_map_msgs.git
+- release repository: https://github.com/ros2-gbp/rmf_building_map_msgs-release.git
+- rosdistro version: `1.2.0-7`
+- old version: `1.2.0-7`
+- new version: `1.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rmf_building_map_msgs (humble) - 1.2.1-1
 
 The packages in the `rmf_building_map_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble rmf_building_map_msgs` on `Thu, 01 Jun 2023 10:44:58 -0000`
