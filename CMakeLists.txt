@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.20)
 
 project(rmf_building_map_msgs)
 
@@ -24,10 +24,12 @@ set(msg_files
   "msg/Graph.msg"
   "msg/GraphEdge.msg"
   "msg/GraphNode.msg"
+  "msg/GraphZone.msg"
   "msg/Level.msg"
   "msg/Lift.msg"
   "msg/Param.msg"
   "msg/Place.msg"
+  "msg/ZoneVertex.msg"
 )
 
 set(srv_files
